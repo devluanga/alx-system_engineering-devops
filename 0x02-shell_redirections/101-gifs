@@ -1,2 +1,2 @@
 #!/bin/bash
-identify --format %n %in --*.gif
+identify -format '%n %in' --*.gif
