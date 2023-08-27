@@ -1,4 +1,4 @@
-# Create a file in /tmp
+# Create a file school in /tmp
 
 file { 'school':
   ensure  => 'present',
